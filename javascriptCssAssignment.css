@@ -1,0 +1,79 @@
+/*CSS reset settings here*/
+*{
+    margin: 10px;
+    padding: 10px;
+   }
+   #wrapper{
+    width: 1200px;
+    background-color: #141453;
+    margin: 10px;
+     height:10000;
+     overflow: hidden; 
+     padding: 10px;
+   }
+   #header{
+    height: 50px;
+    background-color:rgba(128, 0, 34, 0.97);
+   }
+   #navigation{
+    height: 500px;
+    width: 350px;
+    background-color: #167256;
+    color: #19CBE2;
+    vertical-align: top;
+    display: inline-block;
+    /* margin-right: 30px; */
+    
+
+    
+   }
+   #main_content{
+    height: 600px;
+    width: 700px;
+    background-color: black;
+    vertical-align: top;
+    display: inline-block;
+
+   }
+  
+  
+   #footer{
+    height: 50px;
+    background-color: grey;
+   }
+
+   h2{
+       color: grey;
+   }
+
+   a{
+       color: #17A5B8;
+       font-size : small;
+       margin: 0;
+       padding: 0;
+   }
+
+  p{
+       color: grey;
+       font-size: small;
+       margin: 0;
+   }
+ 
+   ul{
+       color: grey;
+   }
+
+   li{
+       color: grey;
+       margin: 0;
+   }
+
+   .colorBlue{
+       color: blue;
+       margin: 0;
+       padding:0;
+   }
+
+   /* h3{
+       color: grey;
+   } */
